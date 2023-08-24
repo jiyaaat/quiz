@@ -1,0 +1,26 @@
+/* App.css */
+
+body {
+  background: url('https://img.freepik.com/premium-photo/sharp-corners-lit-racing-track-formula-one-racing-generative-ai_124507-26695.jpg');
+  background-size: cover;
+  color: #ffffff;
+  }
+  
+  .app-title {
+  margin-top: 0rem;
+  font-size: 5rem;
+  margin-bottom: 28rem;
+  position: absolute;
+  }
+  .btn{
+    background-color: orange;
+    color: black;
+    border: 2px solid black;
+    border-radius: 10px;
+  }
+  .btn:hover{
+    background-color: darkgoldenrod;
+    color: black;
+    border: 2px solid black;
+    border-radius: 10px;
+  }
